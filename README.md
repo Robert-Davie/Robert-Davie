@@ -1,6 +1,4 @@
 # About Me
-
-<img alt="My Stats" align="left" width="56%" src="https://github-readme-stats.vercel.app/api?username=Robert-Davie&hide=contribs,prs&theme=tokyonight"/>
 <img alt="Top Languages" align="right" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Davie&hide_progress=false&theme=tokyonight&layout=compact"/>
 
 <!---
